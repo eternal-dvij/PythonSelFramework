@@ -1,0 +1,319 @@
+2023-03-10 21:59:24,423: INFO: test_formSubmission: firstname is :Amit
+2023-03-10 21:59:24,710: INFO: test_formSubmission: lastname is :Pandey
+2023-03-10 21:59:25,126: INFO: test_formSubmission: gender is :Male
+2023-03-10 21:59:25,364: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 21:59:33,689: INFO: test_formSubmission: firstname is :Any
+2023-03-10 21:59:33,689: INFO: test_formSubmission: firstname is :Any
+2023-03-10 21:59:33,802: INFO: test_formSubmission: lastname is :pandey
+2023-03-10 21:59:33,802: INFO: test_formSubmission: lastname is :pandey
+2023-03-10 21:59:34,294: INFO: test_formSubmission: gender is :Female
+2023-03-10 21:59:34,294: INFO: test_formSubmission: gender is :Female
+2023-03-10 21:59:34,521: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 21:59:34,521: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 21:59:47,523: INFO: test_e2e: navigating to the shop page from home page
+2023-03-10 21:59:49,378: INFO: test_e2e: getting all the card titles
+2023-03-10 21:59:49,419: INFO: test_e2e: iphone X
+2023-03-10 21:59:49,437: INFO: test_e2e: Samsung Note 8
+2023-03-10 21:59:49,470: INFO: test_e2e: Nokia Edge
+2023-03-10 21:59:49,487: INFO: test_e2e: Blackberry
+2023-03-10 21:59:49,757: INFO: test_e2e: enetering country name as ind
+2023-03-10 21:59:49,861: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-10 21:59:58,612: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-10 21:59:58,670: INFO: test_e2e: India
+2023-03-10 22:03:51,341: INFO: test_formSubmission: firstname is :Amit
+2023-03-10 22:03:51,725: INFO: test_formSubmission: lastname is :Pandey
+2023-03-10 22:03:52,182: INFO: test_formSubmission: gender is :Male
+2023-03-10 22:03:52,418: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 22:03:59,991: INFO: test_formSubmission: firstname is :Any
+2023-03-10 22:03:59,991: INFO: test_formSubmission: firstname is :Any
+2023-03-10 22:04:00,107: INFO: test_formSubmission: lastname is :pandey
+2023-03-10 22:04:00,107: INFO: test_formSubmission: lastname is :pandey
+2023-03-10 22:04:00,584: INFO: test_formSubmission: gender is :Female
+2023-03-10 22:04:00,584: INFO: test_formSubmission: gender is :Female
+2023-03-10 22:04:00,817: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 22:04:00,817: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 22:04:13,830: INFO: test_e2e: navigating to the shop page from home page
+2023-03-10 22:04:16,708: INFO: test_e2e: getting all the card titles
+2023-03-10 22:04:16,747: INFO: test_e2e: iphone X
+2023-03-10 22:04:16,762: INFO: test_e2e: Samsung Note 8
+2023-03-10 22:04:16,777: INFO: test_e2e: Nokia Edge
+2023-03-10 22:04:16,792: INFO: test_e2e: Blackberry
+2023-03-10 22:04:17,058: INFO: test_e2e: enetering country name as ind
+2023-03-10 22:04:17,161: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-10 22:04:25,858: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-10 22:04:25,911: INFO: test_e2e: India
+2023-03-10 22:49:55,901: INFO: test_formSubmission: firstname is :Amit
+2023-03-10 22:49:56,255: INFO: test_formSubmission: lastname is :Pandey
+2023-03-10 22:49:56,673: INFO: test_formSubmission: gender is :Male
+2023-03-10 22:49:56,890: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 22:50:04,500: INFO: test_formSubmission: firstname is :Any
+2023-03-10 22:50:04,500: INFO: test_formSubmission: firstname is :Any
+2023-03-10 22:50:04,617: INFO: test_formSubmission: lastname is :pandey
+2023-03-10 22:50:04,617: INFO: test_formSubmission: lastname is :pandey
+2023-03-10 22:50:05,160: INFO: test_formSubmission: gender is :Female
+2023-03-10 22:50:05,160: INFO: test_formSubmission: gender is :Female
+2023-03-10 22:50:05,384: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 22:50:05,384: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 22:50:17,495: INFO: test_e2e: navigating to the shop page from home page
+2023-03-10 22:50:18,890: INFO: test_e2e: getting all the card titles
+2023-03-10 22:50:18,932: INFO: test_e2e: iphone X
+2023-03-10 22:50:18,948: INFO: test_e2e: Samsung Note 8
+2023-03-10 22:50:18,964: INFO: test_e2e: Nokia Edge
+2023-03-10 22:50:18,982: INFO: test_e2e: Blackberry
+2023-03-10 22:50:19,255: INFO: test_e2e: enetering country name as ind
+2023-03-10 22:50:19,353: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-10 22:50:28,010: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-10 22:51:07,755: INFO: test_formSubmission: firstname is :Amit
+2023-03-10 22:51:08,009: INFO: test_formSubmission: lastname is :Pandey
+2023-03-10 22:51:08,422: INFO: test_formSubmission: gender is :Male
+2023-03-10 22:51:08,618: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 22:51:16,168: INFO: test_formSubmission: firstname is :Any
+2023-03-10 22:51:16,168: INFO: test_formSubmission: firstname is :Any
+2023-03-10 22:51:16,280: INFO: test_formSubmission: lastname is :pandey
+2023-03-10 22:51:16,280: INFO: test_formSubmission: lastname is :pandey
+2023-03-10 22:51:16,759: INFO: test_formSubmission: gender is :Female
+2023-03-10 22:51:16,759: INFO: test_formSubmission: gender is :Female
+2023-03-10 22:51:16,976: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 22:51:16,976: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 22:51:29,048: INFO: test_e2e: navigating to the shop page from home page
+2023-03-10 22:51:30,563: INFO: test_e2e: getting all the card titles
+2023-03-10 22:51:30,616: INFO: test_e2e: iphone X
+2023-03-10 22:51:30,633: INFO: test_e2e: Samsung Note 8
+2023-03-10 22:51:30,650: INFO: test_e2e: Nokia Edge
+2023-03-10 22:51:30,667: INFO: test_e2e: Blackberry
+2023-03-10 22:51:30,956: INFO: test_e2e: enetering country name as ind
+2023-03-10 22:51:31,068: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-10 22:51:39,862: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-10 22:52:20,839: INFO: test_formSubmission: firstname is :Amit
+2023-03-10 22:52:21,110: INFO: test_formSubmission: lastname is :Pandey
+2023-03-10 22:52:21,533: INFO: test_formSubmission: gender is :Male
+2023-03-10 22:52:21,723: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 22:52:29,280: INFO: test_formSubmission: firstname is :Any
+2023-03-10 22:52:29,280: INFO: test_formSubmission: firstname is :Any
+2023-03-10 22:52:29,395: INFO: test_formSubmission: lastname is :pandey
+2023-03-10 22:52:29,395: INFO: test_formSubmission: lastname is :pandey
+2023-03-10 22:52:29,870: INFO: test_formSubmission: gender is :Female
+2023-03-10 22:52:29,870: INFO: test_formSubmission: gender is :Female
+2023-03-10 22:52:30,104: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 22:52:30,104: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-10 22:52:41,831: INFO: test_e2e: navigating to the shop page from home page
+2023-03-10 22:52:43,119: INFO: test_e2e: getting all the card titles
+2023-03-10 22:52:43,163: INFO: test_e2e: iphone X
+2023-03-10 22:52:43,179: INFO: test_e2e: Samsung Note 8
+2023-03-10 22:52:43,194: INFO: test_e2e: Nokia Edge
+2023-03-10 22:52:43,213: INFO: test_e2e: Blackberry
+2023-03-10 22:52:43,562: INFO: test_e2e: enetering country name as ind
+2023-03-10 22:52:43,668: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-10 22:52:52,368: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-11 12:01:28,022: INFO: test_formSubmission: firstname is :Amit
+2023-03-11 12:01:28,251: INFO: test_formSubmission: lastname is :Pandey
+2023-03-11 12:01:28,722: INFO: test_formSubmission: gender is :Male
+2023-03-11 12:01:29,022: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:01:36,572: INFO: test_formSubmission: firstname is :Any
+2023-03-11 12:01:36,572: INFO: test_formSubmission: firstname is :Any
+2023-03-11 12:01:36,683: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 12:01:36,683: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 12:01:37,118: INFO: test_formSubmission: gender is :Female
+2023-03-11 12:01:37,118: INFO: test_formSubmission: gender is :Female
+2023-03-11 12:01:37,358: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:01:37,358: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:01:48,256: INFO: test_e2e: navigating to the shop page from home page
+2023-03-11 12:01:49,657: INFO: test_e2e: getting all the card titles
+2023-03-11 12:01:49,699: INFO: test_e2e: iphone X
+2023-03-11 12:01:49,712: INFO: test_e2e: Samsung Note 8
+2023-03-11 12:01:49,728: INFO: test_e2e: Nokia Edge
+2023-03-11 12:01:49,744: INFO: test_e2e: Blackberry
+2023-03-11 12:01:50,023: INFO: test_e2e: enetering country name as ind
+2023-03-11 12:01:50,123: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-11 12:01:58,681: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-11 12:14:56,007: INFO: test_formSubmission: firstname is :Amit
+2023-03-11 12:14:56,132: INFO: test_formSubmission: lastname is :Pandey
+2023-03-11 12:14:56,541: INFO: test_formSubmission: gender is :Male
+2023-03-11 12:14:56,781: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:15:04,717: INFO: test_formSubmission: firstname is :Any
+2023-03-11 12:15:04,717: INFO: test_formSubmission: firstname is :Any
+2023-03-11 12:15:04,862: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 12:15:04,862: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 12:15:05,535: INFO: test_formSubmission: gender is :Female
+2023-03-11 12:15:05,535: INFO: test_formSubmission: gender is :Female
+2023-03-11 12:15:05,791: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:15:05,791: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:15:17,308: INFO: test_e2e: navigating to the shop page from home page
+2023-03-11 12:15:18,989: INFO: test_e2e: getting all the card titles
+2023-03-11 12:15:19,048: INFO: test_e2e: iphone X
+2023-03-11 12:15:19,060: INFO: test_e2e: Samsung Note 8
+2023-03-11 12:15:19,075: INFO: test_e2e: Nokia Edge
+2023-03-11 12:15:19,106: INFO: test_e2e: Blackberry
+2023-03-11 12:15:19,484: INFO: test_e2e: enetering country name as ind
+2023-03-11 12:15:19,620: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-11 12:15:28,366: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-11 12:42:07,221: INFO: test_formSubmission: firstname is :Amit
+2023-03-11 12:42:07,395: INFO: test_formSubmission: lastname is :Pandey
+2023-03-11 12:42:07,870: INFO: test_formSubmission: gender is :Male
+2023-03-11 12:42:08,121: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:42:15,741: INFO: test_formSubmission: firstname is :Any
+2023-03-11 12:42:15,741: INFO: test_formSubmission: firstname is :Any
+2023-03-11 12:42:15,867: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 12:42:15,867: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 12:42:16,383: INFO: test_formSubmission: gender is :Female
+2023-03-11 12:42:16,383: INFO: test_formSubmission: gender is :Female
+2023-03-11 12:42:16,821: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:42:16,821: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:42:28,913: INFO: test_e2e: navigating to the shop page from home page
+2023-03-11 12:42:30,336: INFO: test_e2e: getting all the card titles
+2023-03-11 12:42:30,409: INFO: test_e2e: iphone X
+2023-03-11 12:42:30,445: INFO: test_e2e: Samsung Note 8
+2023-03-11 12:42:30,473: INFO: test_e2e: Nokia Edge
+2023-03-11 12:42:30,496: INFO: test_e2e: Blackberry
+2023-03-11 12:42:30,865: INFO: test_e2e: enetering country name as ind
+2023-03-11 12:42:30,994: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-11 12:42:39,665: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-11 12:50:55,917: INFO: test_formSubmission: firstname is :Amit
+2023-03-11 12:50:56,084: INFO: test_formSubmission: lastname is :Pandey
+2023-03-11 12:50:56,597: INFO: test_formSubmission: gender is :Male
+2023-03-11 12:50:56,826: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:51:05,192: INFO: test_formSubmission: firstname is :Any
+2023-03-11 12:51:05,192: INFO: test_formSubmission: firstname is :Any
+2023-03-11 12:51:05,324: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 12:51:05,324: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 12:51:05,827: INFO: test_formSubmission: gender is :Female
+2023-03-11 12:51:05,827: INFO: test_formSubmission: gender is :Female
+2023-03-11 12:51:06,080: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:51:06,080: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:51:24,406: INFO: test_e2e: navigating to the shop page from home page
+2023-03-11 12:51:25,976: INFO: test_e2e: getting all the card titles
+2023-03-11 12:51:26,041: INFO: test_e2e: iphone X
+2023-03-11 12:51:26,069: INFO: test_e2e: Samsung Note 8
+2023-03-11 12:51:26,097: INFO: test_e2e: Nokia Edge
+2023-03-11 12:51:26,122: INFO: test_e2e: Blackberry
+2023-03-11 12:51:26,440: INFO: test_e2e: enetering country name as ind
+2023-03-11 12:51:26,557: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-11 12:51:35,374: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-11 12:56:52,569: INFO: test_formSubmission: firstname is :Amit
+2023-03-11 12:56:52,725: INFO: test_formSubmission: lastname is :Pandey
+2023-03-11 12:56:53,278: INFO: test_formSubmission: gender is :Male
+2023-03-11 12:56:53,629: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:57:01,382: INFO: test_formSubmission: firstname is :Any
+2023-03-11 12:57:01,382: INFO: test_formSubmission: firstname is :Any
+2023-03-11 12:57:01,490: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 12:57:01,490: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 12:57:01,985: INFO: test_formSubmission: gender is :Female
+2023-03-11 12:57:01,985: INFO: test_formSubmission: gender is :Female
+2023-03-11 12:57:02,243: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:57:02,243: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 12:57:13,844: INFO: test_e2e: navigating to the shop page from home page
+2023-03-11 12:57:15,151: INFO: test_e2e: getting all the card titles
+2023-03-11 12:57:15,195: INFO: test_e2e: iphone X
+2023-03-11 12:57:15,212: INFO: test_e2e: Samsung Note 8
+2023-03-11 12:57:15,228: INFO: test_e2e: Nokia Edge
+2023-03-11 12:57:15,247: INFO: test_e2e: Blackberry
+2023-03-11 12:57:15,549: INFO: test_e2e: enetering country name as ind
+2023-03-11 12:57:15,657: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-11 12:57:24,390: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-11 13:38:29,867: INFO: test_formSubmission: firstname is :Amit
+2023-03-11 13:38:29,997: INFO: test_formSubmission: lastname is :Pandey
+2023-03-11 13:38:30,416: INFO: test_formSubmission: gender is :Male
+2023-03-11 13:38:30,633: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 13:38:38,206: INFO: test_formSubmission: firstname is :Any
+2023-03-11 13:38:38,206: INFO: test_formSubmission: firstname is :Any
+2023-03-11 13:38:38,315: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 13:38:38,315: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 13:38:38,792: INFO: test_formSubmission: gender is :Female
+2023-03-11 13:38:38,792: INFO: test_formSubmission: gender is :Female
+2023-03-11 13:38:39,016: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 13:38:39,016: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 13:38:51,630: INFO: test_e2e: navigating to the shop page from home page
+2023-03-11 13:38:53,239: INFO: test_e2e: getting all the card titles
+2023-03-11 13:38:53,300: INFO: test_e2e: iphone X
+2023-03-11 13:38:53,322: INFO: test_e2e: Samsung Note 8
+2023-03-11 13:38:53,344: INFO: test_e2e: Nokia Edge
+2023-03-11 13:38:53,366: INFO: test_e2e: Blackberry
+2023-03-11 13:38:53,607: INFO: test_e2e: enetering country name as ind
+2023-03-11 13:38:53,702: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-11 13:39:02,457: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-11 14:07:47,559: INFO: test_formSubmission: firstname is :Amit
+2023-03-11 14:07:47,720: INFO: test_formSubmission: lastname is :Pandey
+2023-03-11 14:07:48,351: INFO: test_formSubmission: gender is :Male
+2023-03-11 14:07:48,578: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 14:07:56,338: INFO: test_formSubmission: firstname is :Any
+2023-03-11 14:07:56,338: INFO: test_formSubmission: firstname is :Any
+2023-03-11 14:07:56,455: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 14:07:56,455: INFO: test_formSubmission: lastname is :pandey
+2023-03-11 14:07:57,024: INFO: test_formSubmission: gender is :Female
+2023-03-11 14:07:57,024: INFO: test_formSubmission: gender is :Female
+2023-03-11 14:07:57,281: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 14:07:57,281: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
+2023-03-11 14:08:11,374: INFO: test_e2e: navigating to the shop page from home page
+2023-03-11 14:08:14,356: INFO: test_e2e: getting all the card titles
+2023-03-11 14:08:14,412: INFO: test_e2e: iphone X
+2023-03-11 14:08:14,437: INFO: test_e2e: Samsung Note 8
+2023-03-11 14:08:14,461: INFO: test_e2e: Nokia Edge
+2023-03-11 14:08:14,486: INFO: test_e2e: Blackberry
+2023-03-11 14:08:14,826: INFO: test_e2e: enetering country name as ind
+2023-03-11 14:08:14,961: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-11 14:08:23,267: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-11 14:08:23,700: INFO: test_e2e: India
+2023-03-11 18:07:12,974: INFO: test_e2e: navigating to the shop page from home page
+2023-03-11 18:07:14,652: INFO: test_e2e: getting all the card titles
+2023-03-11 18:07:14,708: INFO: test_e2e: iphone X
+2023-03-11 18:07:14,727: INFO: test_e2e: Samsung Note 8
+2023-03-11 18:07:14,750: INFO: test_e2e: Nokia Edge
+2023-03-11 18:07:14,788: INFO: test_e2e: Blackberry
+2023-03-11 18:07:15,153: INFO: test_e2e: enetering country name as ind
+2023-03-11 18:07:15,322: INFO: test_e2e: going to check if country clicked is india or not
+2023-03-11 18:07:23,985: INFO: test_e2e: text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-03-11 18:07:24,303: INFO: test_e2e: India
+2023-03-11 18:14:32,363: INFO: test_formSubmission: firstname is :Amit
+2023-03-11 18:14:32,531: INFO: test_formSubmission: lastname is :Pandey
+2023-03-11 18:14:32,909: INFO: test_formSubmission: gender is :Male
+2023-03-11 18:14:33,191: INFO: test_formSubmission: ×
+Success! The Form has been submitted successfully!.
